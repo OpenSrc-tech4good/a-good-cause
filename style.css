@@ -64,3 +64,13 @@ hr{
 html, body{
     scroll-behavior: smooth;
 }
+.darki{
+    border-top-left-radius: 30%;
+    border-top-right-radius: 30%;
+    background-color: rgb(40,40,40);
+    color: white;
+}
+li{
+    margin: 0;
+    padding: 0;
+}
