@@ -22,9 +22,18 @@
     color: white;
     text-decoration: none;
 }
+.navbar .left-side a{
+    color: white;
+    font-weight: 900;
+}
 .jumbotron{
     padding-top: 120px;
     padding-bottom: 120px;
+    color: white;
+    background-color: rgb(40,40,40);
+    border-radius: 0;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
 }
 .b-space{
     margin-bottom: 42px;
@@ -38,4 +47,17 @@
     height: 100%;
     width: 23%;
     background-color: rgb(10,10,10);
+}
+button{
+    padding: 7px;
+    padding-top: 4;
+    padding-bottom: 4;
+    border: 1px solid white;
+    background-color: transparent;
+    border-radius: 200px;
+    color: white;
+}
+hr{
+    background-color: transparent;
+    border-bottom: 8px solid rgb(200,200,200);
 }
