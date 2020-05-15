@@ -1,0 +1,19 @@
+.navbar{
+    padding: 23px;
+    font-size: 20px;
+    line-height: 23px;
+    background-color: rgb(40,40,40);
+    color: white;
+}
+.navbar .left-side .right-side{
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    top: 0;
+}
+.navbar .left-side{
+    left: 0;
+}
+.navbar .right-side{
+    right: 0;
+}
