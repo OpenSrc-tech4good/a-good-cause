@@ -32,8 +32,8 @@
     color: white;
     background-color: rgb(40,40,40);
     border-radius: 0;
-    border-bottom-left-radius: 30px;
-    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%;
 }
 .b-space{
     margin-bottom: 42px;
@@ -60,4 +60,7 @@ button{
 hr{
     background-color: transparent;
     border-bottom: 8px solid rgb(200,200,200);
+}
+html, body{
+    scroll-behavior: smooth;
 }
