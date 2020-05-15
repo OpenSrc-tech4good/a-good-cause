@@ -22,3 +22,7 @@
     color: white;
     text-decoration: none;
 }
+.jumbotron{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
