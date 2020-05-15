@@ -29,3 +29,13 @@
 .b-space{
     margin-bottom: 42px;
 }
+.prog-bar{
+    height: 20px;
+    width: 100%;
+    background-color: rgb(240,240,240);
+}
+.prog-bar .prog{
+    height: 100%;
+    width: 23%;
+    background-color: rgb(10,10,10);
+}
